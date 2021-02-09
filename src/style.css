@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("2832132.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.App {
+  /* background-color: cadetblue; */
+  height: 100vh;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.container {
+  background-color: rgba(200, 200, 200, 0.3);
+  padding: 20px;
+}
+h1,
+p {
+  text-align: center;
+  color: rgb(77, 76, 76);
+}
